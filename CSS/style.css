@@ -1,0 +1,16 @@
+.supply-card{
+    border: 0px;
+}
+.supply-card footer{
+    border: none;
+    background-color: white;
+}
+.catagories img{
+    width: 100px;
+    
+}
+.panda-slide .carousel-item{
+    background-color: rgba(255, 192, 203, 0.548);
+    border-radius: 1em;
+
+}
